@@ -1,0 +1,56 @@
+{
+      "accuracy_<catboost.core.CatBoostClassifier object at 0x0000019D3E130B20>": 0.632183908045977,
+      "precision_score_<catboost.core.CatBoostClassifier object at 0x0000019D3E130B20>": 0.6400095237599887,
+      "recall_score_<catboost.core.CatBoostClassifier object at 0x0000019D3E130B20>": 0.632183908045977,
+      "f1_score_<catboost.core.CatBoostClassifier object at 0x0000019D3E130B20>": 0.6109107368944859,
+      "confusion_matrix_<catboost.core.CatBoostClassifier object at 0x0000019D3E130B20>": [
+            [
+                  515,
+                  98,
+                  11,
+                  23,
+                  31,
+                  0
+            ],
+            [
+                  116,
+                  626,
+                  18,
+                  12,
+                  20,
+                  0
+            ],
+            [
+                  36,
+                  115,
+                  37,
+                  3,
+                  2,
+                  1
+            ],
+            [
+                  85,
+                  64,
+                  6,
+                  146,
+                  15,
+                  0
+            ],
+            [
+                  67,
+                  51,
+                  1,
+                  13,
+                  146,
+                  1
+            ],
+            [
+                  25,
+                  35,
+                  2,
+                  1,
+                  12,
+                  15
+            ]
+      ]
+}

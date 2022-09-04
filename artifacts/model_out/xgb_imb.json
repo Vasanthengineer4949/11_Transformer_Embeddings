@@ -1,0 +1,56 @@
+{
+      "accuracy_XGBClassifier(base_score=0.5, booster='gbtree', callbacks=None,\n              colsample_bylevel=1, colsample_bynode=1, colsample_bytree=1,\n              early_stopping_rounds=None, enable_categorical=False,\n              eval_metric=None, gamma=0, gpu_id=-1, grow_policy='depthwise',\n              importance_type=None, interaction_constraints='',\n              learning_rate=0.300000012, max_bin=256, max_cat_to_onehot=4,\n              max_delta_step=0, max_depth=6, max_leaves=0, min_child_weight=1,\n              missing=nan, monotone_constraints='()', n_estimators=100,\n              n_jobs=0, num_parallel_tree=1, objective='multi:softprob',\n              predictor='auto', random_state=0, reg_alpha=0, ...)": 0.6253724989357173,
+      "precision_score_XGBClassifier(base_score=0.5, booster='gbtree', callbacks=None,\n              colsample_bylevel=1, colsample_bynode=1, colsample_bytree=1,\n              early_stopping_rounds=None, enable_categorical=False,\n              eval_metric=None, gamma=0, gpu_id=-1, grow_policy='depthwise',\n              importance_type=None, interaction_constraints='',\n              learning_rate=0.300000012, max_bin=256, max_cat_to_onehot=4,\n              max_delta_step=0, max_depth=6, max_leaves=0, min_child_weight=1,\n              missing=nan, monotone_constraints='()', n_estimators=100,\n              n_jobs=0, num_parallel_tree=1, objective='multi:softprob',\n              predictor='auto', random_state=0, reg_alpha=0, ...)": 0.638897546597465,
+      "recall_score_XGBClassifier(base_score=0.5, booster='gbtree', callbacks=None,\n              colsample_bylevel=1, colsample_bynode=1, colsample_bytree=1,\n              early_stopping_rounds=None, enable_categorical=False,\n              eval_metric=None, gamma=0, gpu_id=-1, grow_policy='depthwise',\n              importance_type=None, interaction_constraints='',\n              learning_rate=0.300000012, max_bin=256, max_cat_to_onehot=4,\n              max_delta_step=0, max_depth=6, max_leaves=0, min_child_weight=1,\n              missing=nan, monotone_constraints='()', n_estimators=100,\n              n_jobs=0, num_parallel_tree=1, objective='multi:softprob',\n              predictor='auto', random_state=0, reg_alpha=0, ...)": 0.6253724989357173,
+      "f1_score_XGBClassifier(base_score=0.5, booster='gbtree', callbacks=None,\n              colsample_bylevel=1, colsample_bynode=1, colsample_bytree=1,\n              early_stopping_rounds=None, enable_categorical=False,\n              eval_metric=None, gamma=0, gpu_id=-1, grow_policy='depthwise',\n              importance_type=None, interaction_constraints='',\n              learning_rate=0.300000012, max_bin=256, max_cat_to_onehot=4,\n              max_delta_step=0, max_depth=6, max_leaves=0, min_child_weight=1,\n              missing=nan, monotone_constraints='()', n_estimators=100,\n              n_jobs=0, num_parallel_tree=1, objective='multi:softprob',\n              predictor='auto', random_state=0, reg_alpha=0, ...)": 0.5989037373355659,
+      "confusion_matrix_XGBClassifier(base_score=0.5, booster='gbtree', callbacks=None,\n              colsample_bylevel=1, colsample_bynode=1, colsample_bytree=1,\n              early_stopping_rounds=None, enable_categorical=False,\n              eval_metric=None, gamma=0, gpu_id=-1, grow_policy='depthwise',\n              importance_type=None, interaction_constraints='',\n              learning_rate=0.300000012, max_bin=256, max_cat_to_onehot=4,\n              max_delta_step=0, max_depth=6, max_leaves=0, min_child_weight=1,\n              missing=nan, monotone_constraints='()', n_estimators=100,\n              n_jobs=0, num_parallel_tree=1, objective='multi:softprob',\n              predictor='auto', random_state=0, reg_alpha=0, ...)": [
+            [
+                  517,
+                  101,
+                  4,
+                  25,
+                  31,
+                  0
+            ],
+            [
+                  109,
+                  630,
+                  15,
+                  18,
+                  20,
+                  0
+            ],
+            [
+                  37,
+                  120,
+                  29,
+                  5,
+                  3,
+                  0
+            ],
+            [
+                  86,
+                  69,
+                  2,
+                  146,
+                  13,
+                  0
+            ],
+            [
+                  68,
+                  60,
+                  2,
+                  13,
+                  136,
+                  0
+            ],
+            [
+                  25,
+                  43,
+                  1,
+                  2,
+                  8,
+                  11
+            ]
+      ]
+}

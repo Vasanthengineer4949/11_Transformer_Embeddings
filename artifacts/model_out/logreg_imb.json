@@ -1,0 +1,56 @@
+{
+      "accuracy_LogisticRegression(max_iter=300)": 0.6568752660706684,
+      "precision_score_LogisticRegression(max_iter=300)": 0.658588962882916,
+      "recall_score_LogisticRegression(max_iter=300)": 0.6568752660706684,
+      "f1_score_LogisticRegression(max_iter=300)": 0.642289596448024,
+      "confusion_matrix_LogisticRegression(max_iter=300)": [
+            [
+                  510,
+                  78,
+                  9,
+                  42,
+                  38,
+                  1
+            ],
+            [
+                  97,
+                  628,
+                  23,
+                  22,
+                  21,
+                  1
+            ],
+            [
+                  38,
+                  92,
+                  56,
+                  6,
+                  2,
+                  0
+            ],
+            [
+                  83,
+                  44,
+                  4,
+                  167,
+                  18,
+                  0
+            ],
+            [
+                  55,
+                  42,
+                  2,
+                  14,
+                  164,
+                  2
+            ],
+            [
+                  24,
+                  37,
+                  2,
+                  1,
+                  8,
+                  18
+            ]
+      ]
+}

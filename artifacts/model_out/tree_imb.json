@@ -1,0 +1,56 @@
+{
+      "accuracy_DecisionTreeClassifier()": 0.37037037037037035,
+      "precision_score_DecisionTreeClassifier()": 0.36973412749282375,
+      "recall_score_DecisionTreeClassifier()": 0.37037037037037035,
+      "f1_score_DecisionTreeClassifier()": 0.36976177214471667,
+      "confusion_matrix_DecisionTreeClassifier()": [
+            [
+                  307,
+                  139,
+                  38,
+                  104,
+                  69,
+                  21
+            ],
+            [
+                  167,
+                  374,
+                  66,
+                  77,
+                  79,
+                  29
+            ],
+            [
+                  59,
+                  61,
+                  24,
+                  22,
+                  22,
+                  6
+            ],
+            [
+                  99,
+                  79,
+                  19,
+                  78,
+                  28,
+                  13
+            ],
+            [
+                  70,
+                  62,
+                  25,
+                  35,
+                  82,
+                  5
+            ],
+            [
+                  19,
+                  36,
+                  7,
+                  10,
+                  13,
+                  5
+            ]
+      ]
+}
