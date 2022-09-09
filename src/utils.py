@@ -12,7 +12,7 @@ from lightgbm import LGBMClassifier
 from xgboost import XGBClassifier
 from catboost import CatBoostClassifier
 from sklearn.svm import SVC
-from sklearn.metrics import roc_auc_score, precision_score, recall_score, accuracy_score, f1_score, confusion_matrix
+from sklearn.metrics import precision_score, recall_score, accuracy_score, f1_score, confusion_matrix
 import json
 import joblib
 

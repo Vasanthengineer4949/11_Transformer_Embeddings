@@ -1,5 +1,3 @@
-from array import array
-from pyexpat import model
 from fastapi import FastAPI
 import joblib
 import uvicorn
